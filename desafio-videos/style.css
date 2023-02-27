@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+    position: relative;
+    padding: 0px 0px 0px 500px;
+    background-color: black;
+}
+h1{
+    position: relative;
+    right: -160px;
+    color:white ;
+}
+img#video{
+    position: relative;
+    right: -260px;
+}
